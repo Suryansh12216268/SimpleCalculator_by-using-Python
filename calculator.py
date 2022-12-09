@@ -76,3 +76,5 @@ while True:
     
     else:
         print("Invalid Input")
+        
+   # This is simple calculator
